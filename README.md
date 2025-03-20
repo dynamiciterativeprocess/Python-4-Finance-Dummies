@@ -2,7 +2,7 @@
 Welcome to the **Python for Finance** repository! 
 This repository was designed for beginners no matter where you are in your journey. 
 If you want to start learning Python from scratch, check out:       
-- [Kaggle - **Introduction to Programming**](*https://www.kaggle.com/learn/intro-to-programming*)
+- [Kaggle - **Introduction to Programming**](https://www.kaggle.com/learn/intro-to-programming)
 - [MITOpenCourseware - **Intro to CS & Programming in Python**](https://ocw.iti.hr/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-slides-code/)
 
 ## Overview

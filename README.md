@@ -7,7 +7,7 @@ If you want to start learning Python from scratch, check out:
 
 ## Overview
 Let's talk about some beginner-friendly projects you can work on: 
-1. [*Fetching Stock Market Data*](Link to the project COMING SOON)
+1. [*Fetching Stock Market Data*](https://colab.research.google.com/github/dynamiciterativeprocess/Python-is-difficult/blob/main/Fetch_Stock_Data.ipynb)
 2. [*Creating Visualisations for Stock Trends*](Soon, girl)
 3. [*Analysing Historical Values*](Not now, dude)
 4. [*Understanding Simple Trading Strategies*](Kill Me Now.mp4)

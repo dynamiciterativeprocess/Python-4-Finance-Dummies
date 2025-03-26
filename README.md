@@ -15,4 +15,5 @@ Let's talk about some beginner-friendly projects you can work on:
 6. [*Working on Monte-carlo Simulations*](You're bitch, What I've been informed)
 
 ## Why learn Python for Finance
-Python is widely used across industries due to its open-source capabilities. If you start learning Python, you will be better off in the long term. Python is challenging to learn initially,
+Python is widely used across industries due to its open-source capabilities. Python is challenging to learn in the first 6 months, after that period you will be quite good. Start attaching your progress to github & you will soon realise how far long you've come. I am cheering for you! 
+Any queries, email me naomipereira1810@gmail.com
